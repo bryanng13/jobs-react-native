@@ -7,7 +7,23 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "ExerciseTrackerMobileApp",
-    "slug": "ExerciseTrackerMobileApp"
+    "name": "JobsMobileApp",
+    "slug": "JobsMobileApp",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "220dbd3d-1d97-412c-bb83-405a0287a8e9"
+      }
+    },
+    "android": {},
+    "ios": {},
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/220dbd3d-1d97-412c-bb83-405a0287a8e9"
+    }
   }
 }
